@@ -1,4 +1,4 @@
-## Tyler J. Brough, Phd 
+## Tyler J. Brough, PhD
 
 - I'm currently working on Computational Statistical [Catallactics](https://en.wikipedia.org/wiki/Catallactics#:~:text=Catallactics%20is%20a%20theory%20of,as%20they%20%22should%22%20be.)
 - I'm currently learning [JAX](https://jax.readthedocs.io/en/latest/index.html), [SMC](https://en.wikipedia.org/wiki/Particle_filter), and [HMMs](https://onlinelibrary.wiley.com/doi/abs/10.1002/jae.1119)
