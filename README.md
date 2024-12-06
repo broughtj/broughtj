@@ -3,8 +3,9 @@
 - I'm currently working on Computational Statistical [Catallactics](https://en.wikipedia.org/wiki/Catallactics#:~:text=Catallactics%20is%20a%20theory%20of,as%20they%20%22should%22%20be.)
 - I'm currently learning [JAX](https://jax.readthedocs.io/en/latest/index.html), [SMC](https://en.wikipedia.org/wiki/Particle_filter), and [HMMs](https://onlinelibrary.wiley.com/doi/abs/10.1002/jae.1119)
 - I'm an Associate Professor of Fintech in [DAIS](https://huntsman.usu.edu/dais/) at [Utah State University](https://www.usu.edu/)
+    - For a list of my current teaching assignment see [Teaching](teaching.md)
 - Ask me about the [Analytics Solutions Center](https://huntsman.usu.edu/asc/)
-
+- A few [words written down](quotes.md).
 <!--
 **broughtj/broughtj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
