@@ -1,8 +1,8 @@
-I am currently teaching the following courses: 
+In Spring 2025 semester I am currently teaching the following: 
 
-- **DATA 5690: Computational Methods for Fintech**
-    - TODO: Write course description here and link to repo.
+- ![DATA 5695](https://github.com/broughtj/DATA5695)
+
+- This will be part of our FinTech track with the ![MDATA](https://huntsman.usu.edu/mdata/) program. Ask me about it! 
 
 
-- **DATA 5695: Predictive Methods for Fintech**
-    - TODO: Write course description and linke to repo.
+
