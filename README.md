@@ -3,6 +3,7 @@
 - I'm currently working on Computational Statistical [Catallactics](https://en.wikipedia.org/wiki/Catallactics#:~:text=Catallactics%20is%20a%20theory%20of,as%20they%20%22should%22%20be.)
 - I'm currently learning [JAX](https://jax.readthedocs.io/en/latest/index.html), [SMC](https://en.wikipedia.org/wiki/Particle_filter), and [HMMs](https://onlinelibrary.wiley.com/doi/abs/10.1002/jae.1119)
 - I'm also configuring my Emacs, Neovim, and Zed setups to compare them all. Pretty sure I'm sticking with Neovim!
+- In July, 2025 I am learning Rust by programming command-line applications with this excellent book: [Command-Line Rust](https://www.oreilly.com/library/view/command-line-rust/9781098109424/).
 - I'm an Associate Professor of Fintech in [DAIS](https://huntsman.usu.edu/dais/) at [Utah State University](https://www.usu.edu/)
     - For a list of my current teaching assignment see [Teaching](teaching.md)
 - Ask me about the [Analytics Solutions Center](https://huntsman.usu.edu/asc/)
